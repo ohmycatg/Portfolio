@@ -12,7 +12,6 @@ public class Main {
         System.out.println("A cipher word: " + encrypt("Java"));
         System.out.println(fizzBuzz(14, 20));
     }
-
     public static boolean isPrime(int number) {
         /*
          * Этот метод проверяет, является ли выбранное число простым
